@@ -1,0 +1,6 @@
+Pillow==9.5.0
+selenium==4.16.0
+twocaptcha==0.0.1
+seleniumbase==4.27.5
+tk==0.1.0
+2captcha-python==1.2.2
